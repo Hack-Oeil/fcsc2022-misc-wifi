@@ -5,7 +5,7 @@ Saurez-vous déchiffrer cette capture Wi-Fi ? Le mot de passe du réseau est **F
 Fichier :
 - [intro-wifi.pcap.xz](intro-wifi.pcap.xz)
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Wi-Fi](https://hackropole.fr/fr/challenges/misc/fcsc2022-misc-wifi/)
 
